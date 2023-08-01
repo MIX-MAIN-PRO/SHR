@@ -13,8 +13,8 @@ except ModuleNotFoundError:
 	os.system('pip install requests bs4 futures==2 > /dev/null')
 	os.system('python SHR.py')
 	
-#print('\033[1;33m Please Follower My Account')
-#os.system('xdg-open https://www.facebook.com/PHYO.WAI.OLD.PAGE.SELLER')
+print('\033[1;33m Please Follower My Account')
+os.system('xdg-open https://www.facebook.com/PHYO.WAI.OLD.PAGE.SELLER')
 #print('\033[1;31m[MIX] Please My You Tube Channel Subscribe')
 #os.system('xdg-open https://www.youtube.com/@HAPPY-NEED-404')
 #print('\033[1;36m[MIX] Send 200K My Kpay InboxðŸ¤£')
@@ -190,7 +190,7 @@ logo=("""\033[1;91m                                       \033[1;37m0
 \033[1;33m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \033[1;37mowner    : \33[1;32mwai>lin>khaing
 \033[1;37mfacebook : \033[1;32mwai>lin>khaing
-\033[1;37mversin   : \033[1;32m1
+\033[1;37mversin   : \033[1;32m0.2
 \033[1;33m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~""")
 def linex():
 	print('\033[1;33m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
